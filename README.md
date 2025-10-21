@@ -1,1 +1,31 @@
-**Enlace Explicación Del proyecto:** [Video](https://udbedu-my.sharepoint.com/personal/mc200314_alumno_udb_edu_sv/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmc200314%5Falumno%5Fudb%5Fedu%5Fsv%2FDocuments%2FGrabaciones%2FMeeting%20with%20Kevin%20Adonay%20Mart%C3%AF%C2%BF%C2%BDnez%20Cer%C3%AF%C2%BF%C2%BDn%2D20251020%5F211315%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec63fb6e1%2Dd7de%2D4121%2D984f%2D104f7a473adc)
+# Gestor de Biblioteca
+
+Sistema de gestión de biblioteca desarrollado para administrar libros, usuarios y préstamos de manera eficiente.
+
+## 📋 Descripción
+
+Este proyecto es un sistema completo de gestión de biblioteca que permite administrar el inventario de libros, gestionar usuarios y controlar los préstamos y devoluciones de material bibliográfico.
+
+## ✨ Características(Aun en proceso de implementación)
+
+- Gestión de libros (agregar, editar, eliminar, buscar)
+- Administración de usuarios
+- Control de préstamos y devoluciones
+- Registro de historial de transacciones
+- Interfaz intuitiva y fácil de usar
+
+### Pasos para clonar el repositorio
+
+1. Clona este repositorio en tu máquina local:
+```bash
+git clone https://github.com/KevinMartinezC/Gestor-de-Biblioteca.git
+```
+
+
+## 👤 Autores
+
+**Kevin Martinez** -
+**Marlon Realegeno**
+
+- GitHub: [@KevinMartinezC](https://github.com/KevinMartinezC)
+- Gibhub: [@MarlonRealegeno](https://github.com/MarlonRealegeno)
